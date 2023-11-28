@@ -7390,6 +7390,10 @@ fieldset:disabled .btn {
     width: 100vw !important
 }
 
+.min-vw-50 {
+    min-width: 50vw !important
+}
+
 .min-vw-100 {
     min-width: 100vw !important
 }
