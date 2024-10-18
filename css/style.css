@@ -520,3 +520,18 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+/* Goals Section Styles */
+.goals-list {
+    line-height: 1.8;
+    font-size: 1.1rem;
+}
+
+.goal-item p {
+    margin-bottom: 0.5rem;
+}
+
+.goal-item strong {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
