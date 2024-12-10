@@ -19,7 +19,7 @@ class Macro:
         self.driver = webdriver.Chrome(options=chrome_options)
         self.driver.implicitly_wait(10)
         self.driver.get("https://119db.com")
-        s
+
 
     def Play_login(self, username, password):
         self.driver.switch_to.window(self.driver.window_handles[-1])
